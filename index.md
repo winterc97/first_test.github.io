@@ -2,5 +2,5 @@
 
 I'm Chris! This is a test of my Github Page. 
 
-![Me](IMG_7494-1.jpg)
+![Sunset from the Grand Canyon](GC Sunset.jpg)
 
